@@ -1,0 +1,15 @@
+/Users/anargurbanov/Projects/CSharpKursSolution/CSharpKurs/bin/Debug/net7.0/CSharpKurs
+/Users/anargurbanov/Projects/CSharpKursSolution/CSharpKurs/bin/Debug/net7.0/CSharpKurs.deps.json
+/Users/anargurbanov/Projects/CSharpKursSolution/CSharpKurs/bin/Debug/net7.0/CSharpKurs.runtimeconfig.json
+/Users/anargurbanov/Projects/CSharpKursSolution/CSharpKurs/bin/Debug/net7.0/CSharpKurs.dll
+/Users/anargurbanov/Projects/CSharpKursSolution/CSharpKurs/bin/Debug/net7.0/CSharpKurs.pdb
+/Users/anargurbanov/Projects/CSharpKursSolution/CSharpKurs/obj/Debug/net7.0/CSharpKurs.csproj.AssemblyReference.cache
+/Users/anargurbanov/Projects/CSharpKursSolution/CSharpKurs/obj/Debug/net7.0/CSharpKurs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anargurbanov/Projects/CSharpKursSolution/CSharpKurs/obj/Debug/net7.0/CSharpKurs.AssemblyInfoInputs.cache
+/Users/anargurbanov/Projects/CSharpKursSolution/CSharpKurs/obj/Debug/net7.0/CSharpKurs.AssemblyInfo.cs
+/Users/anargurbanov/Projects/CSharpKursSolution/CSharpKurs/obj/Debug/net7.0/CSharpKurs.csproj.CoreCompileInputs.cache
+/Users/anargurbanov/Projects/CSharpKursSolution/CSharpKurs/obj/Debug/net7.0/CSharpKurs.dll
+/Users/anargurbanov/Projects/CSharpKursSolution/CSharpKurs/obj/Debug/net7.0/refint/CSharpKurs.dll
+/Users/anargurbanov/Projects/CSharpKursSolution/CSharpKurs/obj/Debug/net7.0/CSharpKurs.pdb
+/Users/anargurbanov/Projects/CSharpKursSolution/CSharpKurs/obj/Debug/net7.0/CSharpKurs.genruntimeconfig.cache
+/Users/anargurbanov/Projects/CSharpKursSolution/CSharpKurs/obj/Debug/net7.0/ref/CSharpKurs.dll

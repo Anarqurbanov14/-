@@ -1,0 +1,15 @@
+/Users/anargurbanov/Projects/CSharpKursSolution/B_ControlFlow/bin/Debug/net7.0/B_ControlFlow
+/Users/anargurbanov/Projects/CSharpKursSolution/B_ControlFlow/bin/Debug/net7.0/B_ControlFlow.deps.json
+/Users/anargurbanov/Projects/CSharpKursSolution/B_ControlFlow/bin/Debug/net7.0/B_ControlFlow.runtimeconfig.json
+/Users/anargurbanov/Projects/CSharpKursSolution/B_ControlFlow/bin/Debug/net7.0/B_ControlFlow.dll
+/Users/anargurbanov/Projects/CSharpKursSolution/B_ControlFlow/bin/Debug/net7.0/B_ControlFlow.pdb
+/Users/anargurbanov/Projects/CSharpKursSolution/B_ControlFlow/obj/Debug/net7.0/B_ControlFlow.csproj.AssemblyReference.cache
+/Users/anargurbanov/Projects/CSharpKursSolution/B_ControlFlow/obj/Debug/net7.0/B_ControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anargurbanov/Projects/CSharpKursSolution/B_ControlFlow/obj/Debug/net7.0/B_ControlFlow.AssemblyInfoInputs.cache
+/Users/anargurbanov/Projects/CSharpKursSolution/B_ControlFlow/obj/Debug/net7.0/B_ControlFlow.AssemblyInfo.cs
+/Users/anargurbanov/Projects/CSharpKursSolution/B_ControlFlow/obj/Debug/net7.0/B_ControlFlow.csproj.CoreCompileInputs.cache
+/Users/anargurbanov/Projects/CSharpKursSolution/B_ControlFlow/obj/Debug/net7.0/B_ControlFlow.dll
+/Users/anargurbanov/Projects/CSharpKursSolution/B_ControlFlow/obj/Debug/net7.0/refint/B_ControlFlow.dll
+/Users/anargurbanov/Projects/CSharpKursSolution/B_ControlFlow/obj/Debug/net7.0/B_ControlFlow.pdb
+/Users/anargurbanov/Projects/CSharpKursSolution/B_ControlFlow/obj/Debug/net7.0/B_ControlFlow.genruntimeconfig.cache
+/Users/anargurbanov/Projects/CSharpKursSolution/B_ControlFlow/obj/Debug/net7.0/ref/B_ControlFlow.dll
